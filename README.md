@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
