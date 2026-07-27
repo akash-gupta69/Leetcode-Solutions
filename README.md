@@ -17,14 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
