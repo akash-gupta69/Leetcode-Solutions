@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## String
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
