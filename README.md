@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0075-sort-colors) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sliding Window
