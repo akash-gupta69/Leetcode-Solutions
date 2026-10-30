@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0078-subsets) |
