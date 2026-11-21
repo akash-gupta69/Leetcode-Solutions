@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [2465-number-of-distinct-averages](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
@@ -29,18 +30,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2465-number-of-distinct-averages](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [2465-number-of-distinct-averages](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [2465-number-of-distinct-averages](https://github.com/akash-gupta69/Leetcode-Solutions/tree/master/2465-number-of-distinct-averages) |
 ## Sliding Window
 |  |
 | ------- |
